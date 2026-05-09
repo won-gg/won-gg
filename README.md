@@ -34,8 +34,6 @@
     <div align= "center">  </div> 
     </div>
     <div align="center">
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-        
-![won-gg's GitHub stats](https://github-readme-stats.vercel.app/api?username=won-gg&show_icons=true&theme=dracula)
-        
-</div>
+      <h2>🏅 Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=won-gg&show_icons=true&theme=dracula" />
+    </div>
