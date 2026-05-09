@@ -1,12 +1,15 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8dbd1,100:f5f1bc&height=120&text=won-gg&animation=&fontColor=000000&fontSize=60" />
-    </div>
+    
+![Header](https://github.com/user-attachments/assets/5603aa3b-95cf-46ec-845a-8345700e8c1c)
+
+
+</div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎇 I'm studying... </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -26,15 +29,17 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
     </div>
+    <br>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📍 Contact me </h2> <br> 
     <div align= "center"> <a href=https://w26nw0n.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://w26nw0n.tistory.com/"> </a>
          <a href=mailto:w26nw0n@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:w26nw0n@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    <br>
     <div align="center">
-      <h2>🏅 Stats</h2>
+      <h2>🎸 Stats</h2>
         
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=won-gg&show_icons=true&theme=dracula)
 
