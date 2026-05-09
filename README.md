@@ -35,5 +35,7 @@
     </div>
     <div align="center">
       <h2>🏅 Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=won-gg&show_icons=true&theme=dracula" />
-    </div>
+        
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=won-gg&show_icons=true&theme=dracula)
+
+</div>
