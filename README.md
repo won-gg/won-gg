@@ -3,7 +3,12 @@
 ![Header](https://github.com/user-attachments/assets/6bca18f1-e994-46e6-a732-71e17a176b4a)
 
 </div>
-    <div align= "center"> 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=B8DBD1&center=true&vCenter=true&width=550&lines=Hello,+I'm+Jinwon!;Studying+Computer+Science+%26+Engineering;Welcome+to+my+GitHub!" alt="Typing Effect" />
+</div>
+
+<div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
