@@ -40,6 +40,6 @@
     <div align="center">
       <h2>🎸 Stats</h2>
         
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=won-gg&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=won-gg&show_icons=true&theme=rose_pine)
 
 </div>
